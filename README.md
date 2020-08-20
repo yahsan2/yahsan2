@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahsan2&count_private=true&show_icons=true&theme=buefy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yahsan2&layout=compact&theme=buefy)
+
+# My Qiita works
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/yahsan2/posts.svg)](http://qiita.com/yahsan2) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/yahsan2/contributions.svg)](http://qiita.com/yahsan2) [![My Qiita followers](https://qiita-badge.apiapi.app/s/yahsan2/followers.svg)](http://qiita.com/yahsan2)
+                
 <!--
 **yahsan2/yahsan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
