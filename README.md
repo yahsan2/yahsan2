@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahsan2&count_private=true&show_icons=true&theme=buefy)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yahsan2&layout=compact&theme=buefy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahsan2&count_private=true&show_icons=true&theme=monokai)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yahsan2&layout=compact&theme=monokai)
 
 # My Qiita works
 
